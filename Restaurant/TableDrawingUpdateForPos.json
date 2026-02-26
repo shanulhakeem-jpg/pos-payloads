@@ -1,0 +1,117 @@
+{
+    "tableDetails": [
+        {
+            "tableNo": "P11",
+            "top": 339,
+            "left": 663,
+            "width": 180,
+            "height": 30,
+            "type": "rectangle",
+            "dbTableId": "3317",
+            "chairCount": "0",
+            "IsDelete": false
+        },
+        {
+            "tableNo": "pa20",
+            "top": 96,
+            "left": 472,
+            "width": 56,
+            "height": 56,
+            "type": "circle",
+            "dbTableId": "3940",
+            "chairCount": "0",
+            "IsDelete": false
+        },
+        {
+            "tableNo": "p1",
+            "top": 288,
+            "left": 176,
+            "width": 56,
+            "height": 56,
+            "type": "rectangle",
+            "dbTableId": "4183",
+            "chairCount": "0",
+            "IsDelete": false
+        },
+        {
+            "tableNo": "p2",
+            "top": 104,
+            "left": 288,
+            "width": 56,
+            "height": 56,
+            "type": "circle",
+            "dbTableId": "4184",
+            "chairCount": "0",
+            "IsDelete": false
+        },
+        {
+            "tableNo": "0",
+            "top": 146,
+            "left": 816,
+            "width": 218,
+            "height": 150,
+            "type": "box",
+            "dbTableId": "4185",
+            "chairCount": "0",
+            "IsDelete": false
+        },
+        {
+            "tableNo": "2",
+            "top": 248,
+            "left": 352,
+            "width": 56,
+            "height": 56,
+            "type": "circle",
+            "dbTableId": "4186",
+            "chairCount": "0",
+            "IsDelete": false
+        },
+        {
+            "tableNo": "3",
+            "top": 248,
+            "left": 544,
+            "width": 56,
+            "height": 56,
+            "type": "rectangle",
+            "dbTableId": "4187",
+            "chairCount": "0",
+            "IsDelete": false
+        },
+        {
+            "tableNo": "4",
+            "top": 304,
+            "left": 456,
+            "width": 56,
+            "height": 56,
+            "type": "circle",
+            "dbTableId": "4188",
+            "chairCount": "0",
+            "IsDelete": false
+        },
+        {
+            "tableNo": "12",
+            "top": 144,
+            "left": 144,
+            "width": 56,
+            "height": 56,
+            "type": "rectangle",
+            "dbTableId": "4697",
+            "chairCount": "1",
+            "IsDelete": false
+        },
+        {
+            "tableNo": "j1",
+            "top": 137,
+            "left": 726,
+            "width": 56,
+            "height": 56,
+            "type": "rectangle",
+            "dbTableId": "0",
+            "chairCount": "3",
+            "IsDelete": false
+        }
+    ],
+    "htmlData": "<div _ngcontent-ng-c3731174927=\"\" data-tableno=\"P11\" data-top=\"0\" data-left=\"0\" data-width=\"22.5\" data-height=\"3.75\" data-type=\"rectangle\" class=\"draggable posTableServiceSectionTableShapeDiv rectangle ui-draggable\" data-dbtableid=\"3317\" chaircount=\"0\" dragging-state=\"false\" style=\"top: 339px; left: 663px; position: absolute;\"><div _ngcontent-ng-c3731174927=\"\" class=\"posTableServiceSectionTableShape rectangle\" style=\"width: 180px; height: 30px;\"><div _ngcontent-ng-c3731174927=\"\" class=\"posTableServiceSectionTable\"><div _ngcontent-ng-c3731174927=\"\" class=\"posTableServiceSectionTableContent\"><span _ngcontent-ng-c3731174927=\"\" class=\"posTableServiceSectionTableNumber\">P11</span></div></div></div></div><div _ngcontent-ng-c3731174927=\"\" data-tableno=\"pa20\" data-top=\"0\" data-left=\"0\" data-width=\"7\" data-height=\"7\" data-type=\"round\" class=\"draggable posTableServiceSectionTableShapeDiv round ui-draggable\" data-dbtableid=\"3940\" chaircount=\"0\" dragging-state=\"false\" style=\"top: 96px; left: 472px; position: absolute;\"><div _ngcontent-ng-c3731174927=\"\" class=\"posTableServiceSectionTableShape round\" style=\"width: 56px; height: 56px; border-radius: 50%;\"><div _ngcontent-ng-c3731174927=\"\" class=\"posTableServiceSectionTable\"><div _ngcontent-ng-c3731174927=\"\" class=\"posTableServiceSectionTableContent\"><span _ngcontent-ng-c3731174927=\"\" class=\"posTableServiceSectionTableNumber\">pa20</span></div></div></div></div><div _ngcontent-ng-c3731174927=\"\" data-tableno=\"p1\" data-top=\"0\" data-left=\"0\" data-width=\"7\" data-height=\"7\" data-type=\"rectangle\" class=\"draggable posTableServiceSectionTableShapeDiv rectangle ui-draggable\" data-dbtableid=\"4183\" chaircount=\"0\" dragging-state=\"false\" style=\"top: 288px; left: 176px; position: absolute;\"><div _ngcontent-ng-c3731174927=\"\" class=\"posTableServiceSectionTableShape rectangle\" style=\"width: 56px; height: 56px;\"><div _ngcontent-ng-c3731174927=\"\" class=\"posTableServiceSectionTable\"><div _ngcontent-ng-c3731174927=\"\" class=\"posTableServiceSectionTableContent\"><span _ngcontent-ng-c3731174927=\"\" class=\"posTableServiceSectionTableNumber\">p1</span></div></div></div></div><div _ngcontent-ng-c3731174927=\"\" data-tableno=\"p2\" data-top=\"0\" data-left=\"0\" data-width=\"7\" data-height=\"7\" data-type=\"round\" class=\"draggable posTableServiceSectionTableShapeDiv round ui-draggable\" data-dbtableid=\"4184\" chaircount=\"0\" dragging-state=\"false\" style=\"top: 104px; left: 288px; position: absolute;\"><div _ngcontent-ng-c3731174927=\"\" class=\"posTableServiceSectionTableShape round\" style=\"width: 56px; height: 56px; border-radius: 50%;\"><div _ngcontent-ng-c3731174927=\"\" class=\"posTableServiceSectionTable\"><div _ngcontent-ng-c3731174927=\"\" class=\"posTableServiceSectionTableContent\"><span _ngcontent-ng-c3731174927=\"\" class=\"posTableServiceSectionTableNumber\">p2</span></div></div></div></div><div _ngcontent-ng-c3731174927=\"\" data-tableno=\"0\" data-top=\"0\" data-left=\"0\" data-width=\"27.25\" data-height=\"18.75\" data-type=\"box\" class=\"draggable posTableServiceSectionTableShapeDiv box ui-draggable\" data-dbtableid=\"4185\" chaircount=\"0\" dragging-state=\"false\" style=\"top: 146px; left: 816px; position: absolute;\"><div _ngcontent-ng-c3731174927=\"\" class=\"posTableServiceSectionTableShape box\" style=\"width: 218px; height: 150px;\"><div _ngcontent-ng-c3731174927=\"\" class=\"posTableServiceSectionTable\"><div _ngcontent-ng-c3731174927=\"\" class=\"posTableServiceSectionTableContent\"><span _ngcontent-ng-c3731174927=\"\" class=\"posTableServiceSectionTableNumber\">0</span></div></div></div></div><div _ngcontent-ng-c3731174927=\"\" data-tableno=\"2\" data-top=\"0\" data-left=\"0\" data-width=\"7\" data-height=\"7\" data-type=\"round\" class=\"draggable posTableServiceSectionTableShapeDiv round ui-draggable\" data-dbtableid=\"4186\" chaircount=\"0\" dragging-state=\"false\" style=\"top: 248px; left: 352px; position: absolute;\"><div _ngcontent-ng-c3731174927=\"\" class=\"posTableServiceSectionTableShape round\" style=\"width: 56px; height: 56px; border-radius: 50%;\"><div _ngcontent-ng-c3731174927=\"\" class=\"posTableServiceSectionTable\"><div _ngcontent-ng-c3731174927=\"\" class=\"posTableServiceSectionTableContent\"><span _ngcontent-ng-c3731174927=\"\" class=\"posTableServiceSectionTableNumber\">2</span></div></div></div></div><div _ngcontent-ng-c3731174927=\"\" data-tableno=\"3\" data-top=\"0\" data-left=\"0\" data-width=\"7\" data-height=\"7\" data-type=\"rectangle\" class=\"draggable posTableServiceSectionTableShapeDiv rectangle ui-draggable\" data-dbtableid=\"4187\" chaircount=\"0\" dragging-state=\"false\" style=\"top: 248px; left: 544px; position: absolute;\"><div _ngcontent-ng-c3731174927=\"\" class=\"posTableServiceSectionTableShape rectangle\" style=\"width: 56px; height: 56px;\"><div _ngcontent-ng-c3731174927=\"\" class=\"posTableServiceSectionTable\"><div _ngcontent-ng-c3731174927=\"\" class=\"posTableServiceSectionTableContent\"><span _ngcontent-ng-c3731174927=\"\" class=\"posTableServiceSectionTableNumber\">3</span></div></div></div></div><div _ngcontent-ng-c3731174927=\"\" data-tableno=\"4\" data-top=\"0\" data-left=\"0\" data-width=\"7\" data-height=\"7\" data-type=\"round\" class=\"draggable posTableServiceSectionTableShapeDiv round ui-draggable\" data-dbtableid=\"4188\" chaircount=\"0\" dragging-state=\"false\" style=\"top: 304px; left: 456px; position: absolute;\"><div _ngcontent-ng-c3731174927=\"\" class=\"posTableServiceSectionTableShape round\" style=\"width: 56px; height: 56px; border-radius: 50%;\"><div _ngcontent-ng-c3731174927=\"\" class=\"posTableServiceSectionTable\"><div _ngcontent-ng-c3731174927=\"\" class=\"posTableServiceSectionTableContent\"><span _ngcontent-ng-c3731174927=\"\" class=\"posTableServiceSectionTableNumber\">4</span></div></div></div></div><div _ngcontent-ng-c3731174927=\"\" data-tableno=\"12\" data-top=\"0\" data-left=\"0\" data-width=\"7\" data-height=\"7\" data-type=\"rectangle\" class=\"draggable posTableServiceSectionTableShapeDiv rectangle ui-draggable\" data-dbtableid=\"4697\" chaircount=\"1\" dragging-state=\"false\" style=\"top: 144px; left: 144px; position: absolute;\"><div _ngcontent-ng-c3731174927=\"\" class=\"posTableServiceSectionTableShape rectangle\" style=\"width: 56px; height: 56px;\"><div _ngcontent-ng-c3731174927=\"\" class=\"posTableServiceSectionTable\"><div _ngcontent-ng-c3731174927=\"\" class=\"posTableServiceSectionTableContent\"><span _ngcontent-ng-c3731174927=\"\" class=\"posTableServiceSectionTableNumber\">12</span></div></div></div></div><div _ngcontent-ng-c3731174927=\"\" data-tableno=\"j1\" data-top=\"0\" data-left=\"0\" data-width=\"7\" data-height=\"7\" data-type=\"rectangle\" class=\"draggable posTableServiceSectionTableShapeDiv rectangle ui-draggable\" data-dbtableid=\"0\" chaircount=\"3\" dragging-state=\"false\" style=\"top: 137px; left: 726px; position: absolute;\"><div _ngcontent-ng-c3731174927=\"\" class=\"posTableServiceSectionTableShape rectangle\" style=\"width: 56px; height: 56px;\"><div _ngcontent-ng-c3731174927=\"\" class=\"posTableServiceSectionTable\"><div _ngcontent-ng-c3731174927=\"\" class=\"posTableServiceSectionTableContent\"><span _ngcontent-ng-c3731174927=\"\" class=\"posTableServiceSectionTableNumber\">j1</span></div></div></div></div>",
+    "floorId": 2161,
+    "restaurantId": 1239
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "id": 0,
+        "orderId": "69018",
+        "chairId": 0,
+        "floorId": 2161,
+        "tableId": 4184,
+        "seatLayoutId": 0,
+        "bookedTimeSlot": "2026-02-26T08:56:34.970336Z",
+        "isTableSelected": true,
+        "totalTax": 0.41,
+        "paidStatus": 0
+    }
+]

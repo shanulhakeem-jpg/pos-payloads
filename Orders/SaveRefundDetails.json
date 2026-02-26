@@ -1,0 +1,16 @@
+{
+    "orderId": 69014,
+    "refundAmount": 0.0,
+    "refundComments": "something",
+    "refundPayments": [
+        {
+            "id": 49244,
+            "refundAmount": 0.0,
+            "refundTipAmount": 1.0,
+            "refundTaxAmount": 0.0
+        }
+    ],
+    "bookedOpenMenuItems": [],
+    "bookedMenuItems": [],
+    "refundType": "TipOnly"
+}

@@ -1,0 +1,13 @@
+{
+    "restaurantId": 1239,
+    "currentDateTime": "2026-02-26 14:01:59",
+    "posOrderId": 4,
+    "orderId": 69017,
+    "voidReason": "Server Error",
+    "posOrders": [
+        {
+            "orderId": 69017,
+            "posOrderId": 4
+        }
+    ]
+}

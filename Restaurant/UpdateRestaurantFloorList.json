@@ -1,0 +1,132 @@
+{
+    "restaurantId": 1239,
+    "userId": 2180,
+    "floors": [
+        {
+            "id": 2161,
+            "code": "PATIO",
+            "name": "Patio",
+            "status": true,
+            "isDeleted": false,
+            "index": 1,
+            "isPrioritized": false
+        },
+        {
+            "id": 2162,
+            "code": "BAR",
+            "name": "Bar",
+            "status": true,
+            "isDeleted": false,
+            "index": 2,
+            "isPrioritized": false
+        },
+        {
+            "id": 2181,
+            "code": "VIP_BAR_AREA",
+            "name": "VIP Bar Area",
+            "status": true,
+            "isDeleted": false,
+            "index": 3,
+            "isPrioritized": false
+        },
+        {
+            "id": 2188,
+            "code": "NEW_ONE",
+            "name": "new one",
+            "status": true,
+            "isDeleted": false,
+            "index": 4,
+            "isPrioritized": false
+        },
+        {
+            "id": 2168,
+            "code": "DINING07",
+            "name": "dining07",
+            "status": true,
+            "isDeleted": false,
+            "index": 5,
+            "isPrioritized": false
+        },
+        {
+            "id": 2189,
+            "code": "TEST_FLOOR1",
+            "name": "test floor1",
+            "status": true,
+            "isDeleted": false,
+            "index": 6,
+            "isPrioritized": false
+        },
+        {
+            "id": 2160,
+            "code": "TEST_FLOOR_X3",
+            "name": "test floor x3",
+            "status": true,
+            "isDeleted": false,
+            "index": 7,
+            "isPrioritized": false
+        },
+        {
+            "id": 2167,
+            "code": "VIP_DINING",
+            "name": "VIP dining",
+            "status": true,
+            "isDeleted": false,
+            "index": 8,
+            "isPrioritized": false
+        },
+        {
+            "id": 2190,
+            "code": "PREMIUM",
+            "name": "Premium",
+            "status": true,
+            "isDeleted": false,
+            "index": 9,
+            "isPrioritized": false
+        },
+        {
+            "id": 2191,
+            "code": "GVBHV",
+            "name": "gvbhv",
+            "status": true,
+            "isDeleted": false,
+            "index": 10,
+            "isPrioritized": false
+        },
+        {
+            "id": 2192,
+            "code": "GG",
+            "name": "gg",
+            "status": true,
+            "isDeleted": false,
+            "index": 11,
+            "isPrioritized": false
+        },
+        {
+            "id": 2193,
+            "code": "GVVY",
+            "name": "gvvy",
+            "status": true,
+            "isDeleted": false,
+            "index": 12,
+            "isPrioritized": false
+        },
+        {
+            "id": 2194,
+            "code": "KO",
+            "name": "ko",
+            "status": true,
+            "isDeleted": false,
+            "index": 13,
+            "isPrioritized": false
+        },
+        {
+            "id": 0,
+            "code": "DINING_2",
+            "name": "dining 2",
+            "status": true,
+            "isDeleted": false,
+            "index": 14,
+            "isPrioritized": false
+        }
+    ]
+}
